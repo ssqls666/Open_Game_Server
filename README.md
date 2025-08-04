@@ -3,6 +3,9 @@
 目前仅更新 V0.1版本 
 支持的游戏:CSGO
 支持的系统:Windows Server 2016/2019/2022/2025
+## Tips:
+写的时候有点小bug，需要把文件放到磁盘的根目录下（例：D:\）
+
 ## Windows教程:
 手动搭建:https://github.com/ssqls666/CS-GO_1155Server  搭建分服:https://www.bilibili.com/video/BV1VKtgzTECX/?share_source=copy_web&vd_source=13b11ef52a9518b02fd94185b7cc0aa9
 ## Linux教程
